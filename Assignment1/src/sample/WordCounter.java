@@ -156,6 +156,7 @@ public class WordCounter
                     double t =  Math.log(1-getWordProb);
                     double l =  Math.log(getWordProb);
                     double s =  t - l;
+                    System.out.println("____________________");
                     fileN = fileN + s;
                 }
             }
