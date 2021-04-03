@@ -4,13 +4,13 @@ Project Information:
 
 This project if a file sharing system that allows access to the following functionalities: Download, Upload, Open and Preview.
 
-
+![image](https://user-images.githubusercontent.com/56858510/113493560-376c5900-94ae-11eb-8dcc-445097d75bf8.png)
 
 Improvements:
 
 I added the follwing functionality:
 
-1. Preview a file - This will allow you to select any local or shared file and generate a preview of the file by clicking the "Preview" button. It will then display this preview to the UI.
+1. Preview a file - This will allow you to select any local or shared file and generate a preview of the file by clicking the "Preview" button. It will then display this generated preview to the UI.
 
 2. Open a file - This will allow you to open any file from the Local_Shared_Drive in Notepad.Aswell as if you select a file from the shared drive, it will download that file to your local drive, then open that text file in Notepad.
 
