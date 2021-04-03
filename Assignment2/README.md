@@ -24,3 +24,14 @@ How to Run File:
 
 Once this is all completed a GUI should appear.
 
+To Use Download Functionality:
+Select File from Shared Folder you would like to download. Then click "Download".
+
+To Use Upload Functionality:
+Select File from Local Folder you would like to upload. Then click "Upload".
+
+To Use Open Functionality:
+Select File from either Local Folder or Shared Folder that you would like to open. Then click "Open".
+
+To use Preview Functionality:
+Select File from either Local Folder or Shared Folder you would like to preview. Then Click "Preview".
